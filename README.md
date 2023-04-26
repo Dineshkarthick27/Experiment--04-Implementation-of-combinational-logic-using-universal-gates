@@ -72,11 +72,6 @@ endmodule
 ## TRUTH TABLE
 ![image](https://user-images.githubusercontent.com/113497032/234519614-6a02c64b-4ee4-4a4d-85bf-eb5ac571a285.png)
 
-
-
-
-## Output:
-## RTL
 ## Timing Diagram
 ![image](https://user-images.githubusercontent.com/113497032/234522400-d26290cc-1e96-45f4-abf9-ee328a8c2b3e.png)
 
